@@ -1,0 +1,6 @@
+taskforge/node_modules
+taskforge/.next
+taskforge/.env
+taskforge/.env.*
+.git
+**/.DS_Store
